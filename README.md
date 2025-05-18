@@ -7,10 +7,6 @@ The tasks that our application does are to easily perform the main services of E
  <ul type="disc" >
  <li>Yakob Beshahwered</li>
  <li> Akrem Muktar</li>
- <li>Ekram Abdellah</li>
- <li>Natenael Nigussie</li>
- <li>Kidus Belay</li>
- <li>Surafel Eyob<li>
 </ul>
  <div display="inline">
 <img src="https://github.com/yakobbeshah/CEP_Android_Project_EthioTele_selfCare/blob/master/image/img-1.jpg" width="100px" height="250px"/>
